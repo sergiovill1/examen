@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directorio>
+	<persona titulo="persona 1">
+		<persona1></persona1>
+		<nombre titulo="José Romo Rico">José Romo Rico</nombre>
+		<direccion titulo="Av. Simón Bolivar #43">Av. Simón Bolivar #43</direccion>
+		<telefono_casa titulo="5511223344">5511223344</telefono_casa>
+		<telefono_movil titulo="5511223355">5511223355</telefono_movil>
+	</persona>
+
+	<persona titulo="persona2">
+		<persona2></persona2>
+		<nombre titulo="Miguel Espinosa Nagera">Miguel Espinosa Nagera</nombre>
+		<direccion titulo="Av Universidad #1322">Av Universidad #1322</direccion>
+		<telefono_casa titulo="5599883322">5599883322</telefono_casa>
+		<telefono_movil titulo="5577662211">5577662211</telefono_movil>
+	</persona>
+
+</directorio>
