@@ -12,7 +12,7 @@
     import org.w3c.dom.NodeList;
     import org.xml.sax.SAXException;
      
-    public class directorio {
+    public class Directorio {
      
         public static void main(String[] args) {
      
